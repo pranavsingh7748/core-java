@@ -4,8 +4,8 @@
 - [x] Introduction to Java Course
 - [x] Java Development Kit setup
 - [x] First code in java
-- [ ] How Java Works
-- [ ] Variables in java
+- [x] How Java Works
+- [x] Variables in java
 - [ ] Data types in java
 - [ ] Literal
 - [ ] Type conversion
