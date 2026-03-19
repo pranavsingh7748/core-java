@@ -8,10 +8,10 @@
 - [x] Variables in java
 - [x] Data types in java
 - [x] Literal
-- [ ] Type conversion
-- [ ] Assignment Operators
-- [ ] Relational Operators
-- [ ] Logical Operators
+- [x] Type conversion
+- [x] Assignment Operators
+- [x] Relational Operators
+- [x] Logical Operators
 
 ### Module 2: Control Flow
 - [ ] If Else
