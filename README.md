@@ -6,8 +6,8 @@
 - [x] First code in java
 - [x] How Java Works
 - [x] Variables in java
-- [ ] Data types in java
-- [ ] Literal
+- [x] Data types in java
+- [x] Literal
 - [ ] Type conversion
 - [ ] Assignment Operators
 - [ ] Relational Operators
