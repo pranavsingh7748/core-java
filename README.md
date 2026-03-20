@@ -14,7 +14,7 @@
 - [x] Logical Operators
 
 ### Module 2: Control Flow
-- [ ] If Else
+- [x] If Else
 - [ ] If Else if
 - [ ] ternary
 - [ ] Switch Statement
