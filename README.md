@@ -15,9 +15,9 @@
 
 ### Module 2: Control Flow
 - [x] If Else
-- [ ] If Else if
-- [ ] ternary
-- [ ] Switch Statement
+- [x] If Else if
+- [x] ternary
+- [x] Switch Statement
 - [ ] Need For Loop
 - [ ] While Loop
 - [ ] Do While Loop
