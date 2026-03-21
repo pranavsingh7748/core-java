@@ -18,11 +18,11 @@
 - [x] If Else if
 - [x] ternary
 - [x] Switch Statement
-- [ ] Need For Loop
-- [ ] While Loop
-- [ ] Do While Loop
-- [ ] For Loop
-- [ ] Which Loop To Use
+- [x] Need For Loop
+- [x] While Loop
+- [x] Do While Loop
+- [x] For Loop
+- [x] Which Loop To Use
 
 ### Module 3: Introduction to OOP & Methods
 - [ ] Class And Object Theory
