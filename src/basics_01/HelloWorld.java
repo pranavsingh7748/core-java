@@ -1,14 +1,7 @@
-//package BASIC;
-//
-//public class hello_world {
-//    public static void main(String[] args) {
-//        System.out.println("Hello Pranav");
-//    }
-//
-//}
-package BASIC;
+package basics_01;
 
-//public class hello_world {
+public class HelloWorld {
+
 //    public static void main(String[] args) {
 //         int num1 = 5;
 //         int num2 = 19;
@@ -65,5 +58,4 @@ package BASIC;
 //        System.out.println(i);
 //    }
 //}
-
-
+}

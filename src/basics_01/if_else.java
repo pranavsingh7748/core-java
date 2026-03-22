@@ -1,4 +1,4 @@
-package BASIC;
+package basics_01;
 
 
 //public class if_else {
