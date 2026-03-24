@@ -3,14 +3,6 @@ package basics_01.loops;
 public class While {
 
 
-
-
-
-
-
-
-
-
 //    public static void main(String[] args) {
 //        while (true){
 //            System.out.println("Hii Pranav"); // this print infinite  times
