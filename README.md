@@ -25,7 +25,7 @@
 - [x] Which Loop To Use
 
 ### Module 3: Introduction to OOP & Methods
-- [x] Class And Object Theory
+- [ ] Class And Object Theory
 - [ ] Class and Object Practical
 - [ ] JDK JRE JVM
 - [ ] Methods
