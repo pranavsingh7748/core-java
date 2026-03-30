@@ -1,4 +1,4 @@
-package basics_01.conditional_statement;
+package basics.conditional_statement;
 
 public class IfElseIf {
 

@@ -1,4 +1,4 @@
-package basics_01.loops;
+package basics.loops;
 
 public class For {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package basics_01;
+package basics;
 
 public class HelloWorld {
 
