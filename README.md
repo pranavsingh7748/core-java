@@ -28,8 +28,8 @@
 - [x] Class And Object Theory
 - [x] Class and Object Practical
 - [x] JDK JRE JVM
-- [ ] Methods
-- [ ] Method Overloading
+- [x] Methods
+- [x] Method Overloading
 - [ ] Stack And Heap
 
 ### Module 4: Arrays & Strings
