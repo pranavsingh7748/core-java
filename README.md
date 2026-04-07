@@ -30,7 +30,7 @@
 - [x] JDK JRE JVM
 - [x] Methods
 - [x] Method Overloading
-- [ ] Stack And Heap
+- [x] Stack And Heap
 
 ### Module 4: Arrays & Strings
 - [ ] Need of an Array
