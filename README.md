@@ -33,7 +33,7 @@
 - [x] Stack And Heap
 
 ### Module 4: Arrays & Strings
-- [ ] Need of an Array
+- [x] Need of an Array
 - [ ] Creation of Array
 - [ ] Multi Dimensional Array
 - [ ] Jagged and 3D Array
