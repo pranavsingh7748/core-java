@@ -34,8 +34,8 @@
 
 ### Module 4: Arrays & Strings
 - [x] Need of an Array
-- [ ] Creation of Array
-- [ ] Multi Dimensional Array
+- [x] Creation of Array
+- [x] Multi Dimensional Array
 - [ ] Jagged and 3D Array
 - [ ] Drawbacks of Array
 - [ ] Array of Objects
