@@ -17,7 +17,7 @@ public class randomValueInArray {
             }
             System.out.println();
         }
-        // we use enhance for loop
+        // we use enhance for loop and it aslo called for each loop
 
         for(int n[]: num){
             for(int m: n){
