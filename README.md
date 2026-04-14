@@ -39,10 +39,10 @@
 - [x] Jagged and 3D Array
 - [x] Drawbacks of Array
 - [x] Array of Objects
-- [ ] Enhanced for loop
-- [ ] What is String
-- [ ] Mutable vs Immutable string
-- [ ] StringBuffer and StringBuilder
+- [x] Enhanced for loop
+- [x] What is String
+- [x] Mutable vs Immutable string
+- [x] StringBuffer and StringBuilder
 
 ### Module 5: Core Object-Oriented Programming (OOP)
 - [ ] static variable
