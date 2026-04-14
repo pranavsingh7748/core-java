@@ -1,4 +1,4 @@
-package concept_2.threedimentional_array4;
+package concept_2.threedimentional_array3;
 
 public class threeDArray {
     public static void main(String[] args) {

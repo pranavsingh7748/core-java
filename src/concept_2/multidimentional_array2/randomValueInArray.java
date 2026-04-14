@@ -1,4 +1,4 @@
-package concept_2.multidimentional_array3;
+package concept_2.multidimentional_array2;
 
 public class randomValueInArray {
     public static void main(String[] args) {

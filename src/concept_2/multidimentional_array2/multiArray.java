@@ -1,4 +1,4 @@
-package concept_2.multidimentional_array3;
+package concept_2.multidimentional_array2;
 
 public class multiArray {
     public static void main(String[] args) {
