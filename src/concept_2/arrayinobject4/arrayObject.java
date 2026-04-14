@@ -33,6 +33,13 @@ public class arrayObject {
              System.out.println(students[i].name + "-" + students[i].rollno + "-" + students[i].marks );
          }
 
+        System.out.println();
+
+
+         for(Student stud : students){
+             System.out.println(stud.name + "-" + stud.rollno + "-" + stud.marks );
+
+         }
 
 
     }
