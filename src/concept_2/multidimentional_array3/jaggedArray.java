@@ -1,4 +1,4 @@
-package concept_2.multidimentional_array;
+package concept_2.multidimentional_array3;
 
 public class jaggedArray {
 

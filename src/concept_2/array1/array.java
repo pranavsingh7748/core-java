@@ -1,4 +1,4 @@
-package concept_2.array;
+package concept_2.array1;
 
 public class array {
     public static void main(String[] args) {

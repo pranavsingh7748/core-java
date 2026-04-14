@@ -1,4 +1,4 @@
-package concept_2.arrayinobject;
+package concept_2.arrayinobject2;
 
 class Student{
     String name;

@@ -36,9 +36,9 @@
 - [x] Need of an Array
 - [x] Creation of Array
 - [x] Multi Dimensional Array
-- [ ] Jagged and 3D Array
-- [ ] Drawbacks of Array
-- [ ] Array of Objects
+- [x] Jagged and 3D Array
+- [x] Drawbacks of Array
+- [x] Array of Objects
 - [ ] Enhanced for loop
 - [ ] What is String
 - [ ] Mutable vs Immutable string
