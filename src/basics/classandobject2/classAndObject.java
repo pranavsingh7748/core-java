@@ -1,4 +1,4 @@
-package basics.classandobject;
+package basics.classandobject2;
 
 class Calculator{
     int a;

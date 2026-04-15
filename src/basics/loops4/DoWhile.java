@@ -1,4 +1,4 @@
-package basics.loops;
+package basics.loops4;
 
 public class DoWhile {
     public static void main(String[] args) {

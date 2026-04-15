@@ -1,4 +1,4 @@
-package basics.conditional_statement;
+package basics.conditional_statement3;
 
 public class SwitchBreak {
 
